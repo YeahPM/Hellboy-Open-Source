@@ -1,0 +1,13 @@
+{
+  "name": "libHellboy.so",
+  "description": " ",
+  "majorVersion":1,
+  "minorVersion":0,
+  "patchVersion":0,
+  "displayName":"libHellboy",
+  "selfManagedUI": true,
+  "displaysUI":true,
+  "dependencies": [
+
+  ]
+}
